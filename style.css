@@ -648,7 +648,7 @@ html {
 /*Newsletter Section*/
 .newsletter {
   background: linear-gradient(var(--pri), var(--sec)),
-    url(/assets/GadgetifyArrivals1.jpg) no-repeat;
+    url(GadgetifyArrivals1.jpg) no-repeat;
   background-blend-mode: multiply;
   background-size: cover;
   background-position: center;
